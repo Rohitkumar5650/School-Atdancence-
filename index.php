@@ -1,6 +1,6 @@
 <?php
       $message='';
-      $serverName = "studenattendenceserver2345.database.windows.net"; // update me
+      $serverName = "traialdbserver.database.windows.net"; // update me
       $connectionOptions = array(
         "Database" => "student_databaase", // update me
         "Uid" => "ankit", // update me
