@@ -2,9 +2,9 @@
       $message='';
       $serverName = "studenattendenceserver2345.database.windows.net"; // update me
       $connectionOptions = array(
-        "Database" => "student_databaase", // update me
-        "Uid" => "ankit", // update me
-        "PWD" => "kumar123#" // update me
+        "Database" => "trialdb", // update me
+        "Uid" => "qwerty", // update me
+        "PWD" => "asdfgh123#" // update me
       );
       //Establishes the connection
     $conn = sqlsrv_connect($serverName, $connectionOptions);
