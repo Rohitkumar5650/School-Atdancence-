@@ -2,8 +2,8 @@
       $message='';
       $serverName = "traialdbserver.database.windows.net"; // update me
       $connectionOptions = array(
-        "Database" => "student_databaase", // update me
-        "Uid" => "trialdb", // update me
+        "Database" => "trialdb", // update me
+        "Uid" => "qwerty", // update me
         "PWD" => "asdfgh123#" // update me
       );
       //Establishes the connection
